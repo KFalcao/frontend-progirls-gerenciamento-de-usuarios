@@ -1,7 +1,7 @@
 {
-    "name": "frontend-progirls-gerenciamento-de-usuarios",
+    "name": "frontend-progirls-user-management-application",
     "version": "1.0.0",
-    "description": "Frontend do Projeto de Gerenciamento de usuários do ProGirls",
+    "description": "Frontend for my user management application using React, React Router, Context API, Tailwind CSS, and Axios",
     "main": "index.js",
     "scripts": {
         "dev": "next dev",
@@ -27,7 +27,8 @@
         "eslint-plugin-react": "^7.37.4",
         "globals": "^15.14.0",
         "react-scripts": "^5.0.1"
+        "eslint": "^8.0.0"
     },
-    "author": "Seu nome",
+    "author": "Danielle Costa, Karolline Falcão, Laura Cardoso, Sabrinne Sousa"
     "license": "MIT"
 }
